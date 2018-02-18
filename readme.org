@@ -1,0 +1,2 @@
+* my-init.el file
+   init.el是位于.emacs.d下的配置文件。
