@@ -1,2 +1,2 @@
 * my-init.el file
-   init.el是位于.emacs.d下的配置文件。
+   init.el和lisp文件夹确保位于.emacs.d文件夹下。
